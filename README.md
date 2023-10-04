@@ -1,6 +1,8 @@
 ### Hi, I´m Angie Vanegas 🚀
 
-### Data Science 📊, Training Analyst ➕ & Customer Service 👨‍👧‍👦
+### Data Science 📊, Training Analyst 🔖 & Customer Service 👨‍👧‍👦
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)
 
 ### About me 🤙
 
@@ -55,7 +57,7 @@ I'm committed to continuous learning and am currently acquiring skills in **Pyth
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-### **My projects ✨ :**
+### **My Data projects ✨ :**
 
 - [United States Fortune 500 Companies](https://github.com/avanegasp/unicatalu-a/blob/gh-pages/Practica_individual_Ucatalu%C3%B1a.ipynb) 
   Study on the dataset that contains the first 500 companies that have made profits and that appear in      Fortune magazine each year. This study can help and give confidence to future investors.
