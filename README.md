@@ -1,20 +1,16 @@
-### Hi, I´m Angie 🚀
+### Hi, I´m Angie Vanegas 🚀
 
-# Angie Vanegas
+### Data Science 📊, Training Analyst ➕ & Customer Service 👨‍👧‍👦
 
-## Data Science 📊, Training Analyst & Customer Service 👨‍👧‍👦
+### About me 🤙
 
+With over 6 years of experience in the technology industry, I've had the opportunity to work in a variety of roles, from **Customer Service to Head of Admissions**. Throughout my career, I've developed strong skills in customer relationship management, data analysis, and Full Stack programming training.
 
+My passion for technology and the desire to tackle complex problems have led me to embark on an exciting transition into the field of **data science**. During my time as a Training Analyst, I had the opportunity to work with data and discover how it can drive strategic decision-making.
 
-### 🗺️ **Find me around the web**
+I'm committed to continuous learning and am currently acquiring skills in **Python programming, statistical analysis, and machine learning** through courses and personal projects. My prior experience in customer interactions has provided me with valuable insights into how data can be used to better understand user needs and preferences.
 
-- Writing in [Platzi](https://platzi.com/blog/como-superar-sindrome-impostor/)
-- Reading somethings fun things in Medium as [LoreBlogs](https://loreblogs.medium.com/)
-- Listening my podcast [Doble Click](https://open.spotify.com/episode/0Bxp9hYWMLvb2kVbCReK4U?si=5aa6c6bec07b4b50)
-- And know about me and my experience work in [LinkedIn](https://www.linkedin.com/in/avanegasp/)
-
-
-### **Some technologies I use:**
+## **Some technologies I use 👩‍💻:**
 
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -32,6 +28,19 @@
 ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
+![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![image](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![image](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![image](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+
+## **Technologies I have worked with ☂️:**
+
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,17 +55,20 @@
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![image](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![image](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![image](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
+### **My projects ✨ :**
 
+- [United States Fortune 500 Companies](https://github.com/avanegasp/unicatalu-a/blob/gh-pages/Practica_individual_Ucatalu%C3%B1a.ipynb)
+
+### **Find me around the web 🗺️**
+
+- Writing in [Platzi](https://platzi.com/blog/como-superar-sindrome-impostor/)
+- Reading somethings fun things in Medium as [LoreBlogs](https://loreblogs.medium.com/)
+- Listening my podcast [Doble Click](https://open.spotify.com/episode/0Bxp9hYWMLvb2kVbCReK4U?si=5aa6c6bec07b4b50)
+- And know about me and my experience work in [LinkedIn](https://www.linkedin.com/in/avanegasp/)
+  
+
+### Github Stats 2023 🛠️
+![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanegasp&show_icons=true&theme=radical)
 <!--
 **avanegasp/avanegasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
