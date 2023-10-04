@@ -57,8 +57,18 @@ I'm committed to continuous learning and am currently acquiring skills in **Pyth
 
 ### **My projects ✨ :**
 
-- [United States Fortune 500 Companies](https://github.com/avanegasp/unicatalu-a/blob/gh-pages/Practica_individual_Ucatalu%C3%B1a.ipynb)
+- [United States Fortune 500 Companies](https://github.com/avanegasp/unicatalu-a/blob/gh-pages/Practica_individual_Ucatalu%C3%B1a.ipynb) 
+  Study on the dataset that contains the first 500 companies that have made profits and that appear in      Fortune magazine each year. This study can help and give confidence to future investors.
+  
+- [S&P 500 Enviroment, Social and Goverment (ESG) Risk Ratings](https://github.com/avanegasp/DOS_Modulo_4_PRAI_ESG/blob/main/M%C3%B3dulo4_Practica_individual_ESG_github.ipynb)
+  This study shows exclusively samples companies in the S&P 500 index. Researchers, investors, analysts,    and policymakers can use this data set to gain insight into the ESG performance and risk profiles of      these large corporations. Whether exploring trends, conducting ESG assessments, or making informed        investment decisions, this data set serves as a valuable resource for understanding the sustainability    and governance practices of S&P 500 companies.
 
+- [Machine Learning - S&P 500 Enviroment, Social and Goverment (ESG) Risk Ratings](https://github.com/avanegasp/Entrega_Modulo_5/blob/main/5_Modulo_PRAI.ipynb)  
+  Complement the previous work by implementing Artificial Intelligence (Machine Learning) with the          implementation of different techniques used in machine learning and statistics for data modeling and      prediction.
+
+- [Homes for sale in Bogotá - Colombia](https://github.com/avanegasp/Alura/blob/main/Modulo5_PRAI.ipynb)
+  Study on the sale of homes in Bogotá - Colombia
+  
 ### **Find me around the web 🗺️**
 
 - Writing in [Platzi](https://platzi.com/blog/como-superar-sindrome-impostor/)
@@ -68,7 +78,7 @@ I'm committed to continuous learning and am currently acquiring skills in **Pyth
   
 
 ### Github Stats 2023 🛠️
-![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanegasp&show_icons=true&theme=radical)
+![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanegasp&show_icons=true&theme=tokyonight)
 <!--
 **avanegasp/avanegasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
