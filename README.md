@@ -1,6 +1,6 @@
 ### Hi, I´m Angie Vanegas 🚀
 
-### Data Science 📊, Training Analyst 🔖 & Customer Service 👨‍👧‍👦
+### Im looking for a job as a Data Science 📊, and I have experience as Training Analyst 🔖 & Customer Service 👨‍👧‍👦
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)
 
@@ -41,7 +41,7 @@ I'm committed to continuous learning and am currently acquiring skills in **Pyth
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![image](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 
-## **Technologies I have worked with ☂️:**
+## **Technologies I have used too ☂️:**
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
