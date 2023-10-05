@@ -1,6 +1,6 @@
 ### Hi, I´m Angie Vanegas 🚀
 
-### Im looking for a job as a Data Science 📊, and I have experience as Training Analyst 🔖 & Customer Service 👨‍👧‍👦
+### Im looking for a job as a Data Science 📊 or Data Analyst 🔖 and less but not least I have experience as Customer Service 👨‍👧‍👦
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)
 
