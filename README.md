@@ -1,6 +1,6 @@
 ### Hi, I´m Angie Vanegas 🚀
 
-### Im looking for a job as a Customer Care Manager 📊, Customer Support Analyst 🔖 or Customer Support Representative (I have knowledge in Data Science)
+Currently studying programming in **4geeks** 😎
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)
 
