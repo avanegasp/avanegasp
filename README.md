@@ -2,7 +2,7 @@
 
 Currently studying programming in **4geeks** 😎
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)]
+[Linkedin](https://i.stack.imgur.com/gVE0j.png) My LinkedIn](https://www.linkedin.com/in/avanegasp/)
 
 ### About me 🤙
 
