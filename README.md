@@ -6,11 +6,11 @@ Currently studying programming in **4geeks** 😎
 
 ### About me 🤙
 
-With over 6 years of experience in the technology industry, I've had the opportunity to work in a variety of roles, from **Customer Service to Head of Admissions**. Throughout my career, I've developed strong skills in customer relationship management, data analysis, and Full Stack programming training.
+With over 6 years of experience in the technology industry, I've navigated various roles, from Customer Service to Head of Admissions. Throughout my career, I've honed strong skills in customer relationship management, data analysis, and Full Stack programming training.
 
-My passion for technology and the desire to tackle complex problems have led me to embark on an exciting transition into the field of **data science**. During my time as a Training Analyst, I had the opportunity to work with data and discover how it can drive strategic decision-making.
+Driven by a passion for technology and a knack for solving intricate challenges, I'm now transitioning into the realm of **backend development**. As a Training Analyst, I delved into data-driven insights that shape strategic decisions, sparking my interest in data science.
 
-I'm committed to continuous learning and am currently acquiring skills in **Python programming, statistical analysis, and machine learning** through courses and personal projects. My prior experience in customer interactions has provided me with valuable insights into how data can be used to better understand user needs and preferences.
+I'm dedicated to ongoing growth, presently expanding my expertise in Python programming, statistical analysis, and machine learning through coursework and personal projects. My background in customer interactions offers a unique perspective on leveraging data to enhance user understanding and satisfaction.
 
 ## **Some technologies I use 👩‍💻:**
 
