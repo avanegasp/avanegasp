@@ -1,7 +1,5 @@
 # Hi, I´m Angie Vanegas 🚀
 
-Currently studying programming in **4geeks** 😎
-
 ### About me 🤙
 
 With over 6 years of experience in the technology industry, I've navigated various roles, from Customer Service to Head of Admissions. Throughout my career, I've honed strong skills in customer relationship management, data analysis, and Full Stack programming training.
