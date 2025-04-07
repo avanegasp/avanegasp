@@ -1,12 +1,34 @@
 # Hi, I´m Angie Vanegas 🚀
 
-### About me 🤙
+## About me 💻
 
-With over 6 years of experience in the technology industry, I've navigated various roles, from Customer Service to Head of Admissions. Throughout my career, I've honed strong skills in customer relationship management, data analysis, and Full Stack programming training.
+As a **Full Stack Developer** with a strong focus on backend, I’ve been actively involved in real-world application development—designing scalable architectures, writing clean code, and collaborating with agile teams using **SCRUM methodology**.
 
-Driven by a passion for technology and a knack for solving intricate challenges, I'm now transitioning into the realm of **backend development**. As a Training Analyst, I delved into data-driven insights that shape strategic decisions, sparking my interest in data science.
+### ✅ Key Skills & Experience:
+- Over **1 year** of hands-on experience in **web development**
+- Proficient in frontend technologies: **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, and **DOM manipulation**
+- Experience with **React.js**, state management using **Flux**, and UI design with **Chakra UI** and **Material UI**
+- Backend development with **Python**, **Flask**, and **Django**, building and consuming **RESTful APIs**
+- Database management with **SQL**
+- Version control using **Git/GitHub** and **Git Flow**
+- Feature **testing** and validation using testing techniques
+- Strong focus on **best practices**, **maintainable code**, and **result-driven solutions**
 
-I'm dedicated to ongoing growth, presently expanding my expertise in Python programming, statistical analysis, and machine learning through coursework and personal projects. My background in customer interactions offers a unique perspective on leveraging data to enhance user understanding and satisfaction.
+---
+
+### 🛠️ My responsibilities include:
+- Writing and reviewing code, fixing bugs, and optimizing existing features  
+- Designing, planning, and prototyping full web applications  
+- Developing and integrating APIs efficiently between frontend and backend  
+- Performing functional testing across different environments and browsers  
+- Actively participating in daily meetings and continuous delivery workflows  
+- Proposing technical improvements and refactoring strategies to reduce technical debt  
+- Collaborating with cross-functional teams and conducting code reviews aligned with quality standards  
+
+---
+
+📌 Passionate about **clean code**, **scalability**, and building **tech solutions that make an impact**.
+
 
 ## **Some technologies I use 👩‍💻:**
 
