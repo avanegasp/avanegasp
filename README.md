@@ -2,7 +2,7 @@
 
 ## About me 💻
 
-As a **Full Stack Developer** with a strong focus on backend, I’ve been actively involved in real-world application development—designing scalable architectures, writing clean code, and collaborating with agile teams using **SCRUM methodology**.
+As a **Full Stack Developer**, I’ve been actively involved in real-world application development—designing scalable architectures, writing clean code, and collaborating with agile teams using **SCRUM methodology**.
 
 ### ✅ Key Skills & Experience:
 - Over **1 year** of hands-on experience in **web development**
